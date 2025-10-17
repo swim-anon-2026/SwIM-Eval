@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+configs/paths.local.yaml
+data/
+outputs/
+.DS_Store
+Thumbs.db
